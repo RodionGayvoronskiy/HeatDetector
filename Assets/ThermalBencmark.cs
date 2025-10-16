@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using System.Runtime.InteropServices;
 
 public class ThermalBenchmark : MonoBehaviour
 {
